@@ -13,7 +13,7 @@ Video: https://youtu.be/GfbQU3GQBhM
   - Made with Arduino IDE
   - Languages: C/C++, Python
   
-## Project
+## Project 
 ### Maze solver robot
 Mobile robot capable of going through a 5x5 cell maze trying to find the way out.
 
